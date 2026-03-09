@@ -29,8 +29,8 @@ data = {
     },
 
     "observer": {
-        "latitude":8.5279,
-        "longitude":52.0221,
+        "latitude":your_latitude,
+        "longitude":your_longitude,
         "date":date
     },
 
